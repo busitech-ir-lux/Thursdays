@@ -403,12 +403,13 @@ The WordPress REST API endpoint revealed references to pages associated with fut
 
 ```text
 https://www.inlanefreight.com/index.php/news/
-https://www.inlanefreight.com/index.php/wp-json/wp/v2/pages/13
 ```
 
 ### Answer
 
 **Location:** `www.inlanefreight.com`
+
+./Screenshot_2026-05-28_12_08_49.png
 
 ---
 
