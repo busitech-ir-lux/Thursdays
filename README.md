@@ -1,2 +1,2 @@
-***The Workshops notes***
+# The Workshops notes
 I will add taken notes of my work in the workshops here. Please refer to the date and you will find the notes related to that date. Feel free to inform me of any problems/misspelled/forgotten points you observe through these notes. Thank you!
