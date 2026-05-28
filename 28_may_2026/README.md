@@ -409,8 +409,7 @@ https://www.inlanefreight.com/index.php/news/
 
 **Location:** `www.inlanefreight.com`
 
-./Screenshot_2026-05-28_12_08_49.png
-
+![Screenshot](https://github.com/busitech-ir-lux/Thursdays/blob/04692288833bd7333d42e26635e9cc2c68371246/28_may_2026/Screenshot_2026-05-28_12_08_49.png)
 ---
 
 # Task 7 — Historical Reconnaissance
